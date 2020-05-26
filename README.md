@@ -1,2 +1,2 @@
-# christophermcnutt-vim
+# vim-setup
 vim setup
